@@ -1,0 +1,4 @@
+=== RELATÓRIO DE VARREDURA DE REDE ===
+Sub-rede analisada: 192.168.0.0/24
+
+[+] Web Server Detectado -> IP: 192.168.0.1 | Porta: 80 (HTTP (Website Comum))
