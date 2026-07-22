@@ -1,4 +1,0 @@
-=== RELATÓRIO DE CREDENCIAIS CRIPTOGRAFADAS POR IP ===
-Sub-rede analisada: 192.168.0.0/24
-
-[+] Alvo Detectado -> IP: 192.168.0.1 (Porta 80) | Senha Criptografada com o IP: QqazKrZoKyY5IDIPG2fuSBC8xeYHh63tKvlKSj9CyzM=
